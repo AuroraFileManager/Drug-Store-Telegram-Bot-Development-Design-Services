@@ -3,7 +3,7 @@
 
 # CasinexSeo Development & Design Services
 
-*Domain: dev.webshell.lol
+Telegram : t.me/BIBIL_0DAYBackup
 
 CasinexSeo is a full-service development and design agency specializing in full-stack development, chatbot solutions, e-commerce platforms, and branding assets. Our expertise enables businesses to automate customer interactions, streamline online sales, and enhance visual identity through custom bots and responsive web portals.
 
